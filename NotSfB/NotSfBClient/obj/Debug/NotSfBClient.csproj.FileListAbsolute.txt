@@ -1,0 +1,10 @@
+C:\Users\ndrwcube\Documents\Git Repositories\NotSkypeforBusiness\NotSfB\NotSfBClient\bin\Debug\NotSfBClient.exe.config
+C:\Users\ndrwcube\Documents\Git Repositories\NotSkypeforBusiness\NotSfB\NotSfBClient\bin\Debug\NotSfBClient.exe
+C:\Users\ndrwcube\Documents\Git Repositories\NotSkypeforBusiness\NotSfB\NotSfBClient\bin\Debug\NotSfBClient.pdb
+C:\Users\ndrwcube\Documents\Git Repositories\NotSkypeforBusiness\NotSfB\NotSfBClient\obj\Debug\NotSfBClient.csproj.AssemblyReference.cache
+C:\Users\ndrwcube\Documents\Git Repositories\NotSkypeforBusiness\NotSfB\NotSfBClient\obj\Debug\NotSfBClient.Properties.Resources.resources
+C:\Users\ndrwcube\Documents\Git Repositories\NotSkypeforBusiness\NotSfB\NotSfBClient\obj\Debug\NotSfBClient.csproj.GenerateResource.cache
+C:\Users\ndrwcube\Documents\Git Repositories\NotSkypeforBusiness\NotSfB\NotSfBClient\obj\Debug\NotSfBClient.csproj.CoreCompileInputs.cache
+C:\Users\ndrwcube\Documents\Git Repositories\NotSkypeforBusiness\NotSfB\NotSfBClient\obj\Debug\NotSfBClient.exe
+C:\Users\ndrwcube\Documents\Git Repositories\NotSkypeforBusiness\NotSfB\NotSfBClient\obj\Debug\NotSfBClient.pdb
+C:\Users\ndrwcube\Documents\Git Repositories\NotSkypeforBusiness\NotSfB\NotSfBClient\obj\Debug\NotSfBClient.Form1.resources
